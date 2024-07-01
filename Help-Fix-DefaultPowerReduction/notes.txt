@@ -1,0 +1,10 @@
+
+
+
+One does not simply  
+" Fix " 
+
+Default power reduction , as it is a default.  
+
+
+One may have to build their fix on top of it on the EVM if required. 
