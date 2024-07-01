@@ -1,0 +1,15 @@
+
+
+
+
+You may visit this explorer , to view the 50 testnet transactions that 
+are not adhereing to te whitepaper claims of a fixed price of 0.000000888 eth.  
+
+
+https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io/txs
+
+
+
+I will be claiming each for a medium - low level bounty.  
+
+Thank you , Vampeyer

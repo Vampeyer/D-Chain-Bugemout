@@ -1,0 +1,88 @@
+
+
+On the whitepaper , it clearly states that the entire network , 
+is to have a fixed transaction fee of 0.000000888 eth , thats six zeros , before 888. 
+
+
+The entire tesstnet transaction ledger has not adhered to that ,  
+
+
+https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io/txs
+
+
+
+----------------------------------------------------------   
+
+
+On this site , it clearly states the transaction fee , of each transaction , 
+which is higher than the  , not limited , but fixed amount suggested by the whitepaper. 
+
+This suggests that ( essentially all unless otherwise specified ,  ) 
+ transactions , should be no more and no less than  
+0.000000888 eth  
+
+
+-------- 
+
+On the testnet explorer , even the most recent transactions occuring here , 
+https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io/tx/0xa234e4271ac4e5a51fd3d04c36f3639fdc79a27dceb104a90dc2f5f597054919   
+
+
+Have a Transaction fee that is much higher than the limit , for this one it is, 
+a
+Transaction fee of
+0.00007168633330872 eth
+
+________________________________________________________________________________________________
+
+
+
+
+
+
+For each transaction that has happened upon the test ledger , 
+that is  -  different - than the - fixed amount  - described in the whitepaper , 
+
+I will be submitting a medium level bug request , as these inaccurate calcualtions are directly 
+refelecting differently than the whitepaper , and I predict that they will continue to do so 
+unless otherwise modified from here.    
+
+
+Every transaction goes against the claimed fixed price on the whitepaper ,  
+and every transaction that passes , is another that is higher that the claimed rate. 
+
+
+
+
+Although , if every transaction is claimed as a bug , there should be easy resolution 
+on customers , knowing there provider is adhering to their claims , ( I have seen the situation before.   )
+
+
+
+
+------- 
+Please excuse me  for not relisting and rewriting each one for each individual bug as that would be quite exhausting 
+
+ 
+
+**** You may view the 50 transactions here , for which I am claiming 50 bugs on. 
+****   https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io/txs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

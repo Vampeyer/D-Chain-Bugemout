@@ -1,0 +1,25 @@
+
+
+
+This is a list of items needed in order to fulfill the need of simply testing a token on the testnet. 
+
+I am using kepler wallet and metamask for testing , and brave browser for http / https endpoint testing, 
+along with some network stats for each site listed.    
+
+
+Broken links are a class of broken  
+links with improper calculations for some required web services for the 
+network, lead to broken networks , and are a crucial point of testing 
+for the web3 developer.
+
+Although somewhat trivial , the severity of these needs should not be neglected
+for the health and progress of the network as a whole. 
+
+It is my hope that these   
+
+"mistakes"  , that "follow white paper calculations can be rewarded."  
+
+
+Will be considered for processing of both a reward and a good break fix resolution ,  
+as defined by the detials of the bug bounty. 
+

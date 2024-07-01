@@ -1,0 +1,20 @@
+
+
+
+
+On the site  https://docs.openbisea.com/dexstudio/d-chain/d-chain-and-dtoken-connection 
+
+- the https link to  the testnet 
+https://dchaintestnet-2713017997578000-1.jsonrpc.testnet.sagarpc.io
+ is broken. 
+
+- I will be attatching video and network request information to assist reporting in this bug .    
+
+
+
+--- The screenshot I am attatching from a nertwork report done from 
+www.mxtoolbox.com ,  
+shows a 502 error for the endpoint  
+
+https://mxtoolbox.com/SuperTool.aspx?action=https%3a%2f%2fdchaintestnet-2713017997578000-1.jsonrpc.testnet.sagarpc.io%2f&run=toolpage
+
